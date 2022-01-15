@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /some-path/
+
+
+
+Sitemap: https://decorideas.github.io/sitemap.xml
+Sitemap: https://decorideas.github.io/hasil.xml
